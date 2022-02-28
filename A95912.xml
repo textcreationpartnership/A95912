@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The victualler's friend: or, The use of a new-invented gauging-rod, contriv'd chiefly for the advantage of victuallers in and about London Whereby they may not only discover the want of measure from the brewer (either in beer or ale) but likewise what quantity they want.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95912</idno>
+            <idno type="STC">Wing V351A</idno>
+            <idno type="STC">ESTC R230530</idno>
+            <idno type="EEBO-CITATION">99899496</idno>
+            <idno type="PROQUEST">99899496</idno>
+            <idno type="VID">153712</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95912)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153712)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2375:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The victualler's friend: or, The use of a new-invented gauging-rod, contriv'd chiefly for the advantage of victuallers in and about London Whereby they may not only discover the want of measure from the brewer (either in beer or ale) but likewise what quantity they want.</title>
+               </titleStmt>
+               <extent>[4], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for H Newman, at the Grashopper in the Poultry, and given gratis to those that buy the rod,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1695?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a half-title.</note>
+                  <note>Date of publication from Wing CD-ROM, 1996.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C..</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ale --  Taxation --  England --  Early works to 1800.</term>
+               <term>Beer --  Taxation --  England --  Early works to 1800.</term>
+               <term>Inventions --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153712:1"/>
+            <p>THE <hi>Victualler</hi>'s <hi>Friend:</hi> OR, The Uſe of a New-Invented GAUGING-ROD, Contriv'd Chiefly For the Advantage of <hi>Victuallers</hi> in and about <hi>London.</hi>
+            </p>
+            <p>Whereby they may not only Diſcover the want of Meaſure from the Brewer (either in <hi>Beer</hi> or <hi>Ale</hi>) but likewiſe what quan<g ref="char:EOLhyphen"/>tity they want.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>H Newman,</hi> at the <hi>Graſhopper</hi> in the <hi>Poultry,</hi> and Given Gratis to thoſe that Buy the <hi>Rod.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:153712:2"/>
+            <pb n="1" facs="tcp:153712:2"/>
+            <head>THE USE Of a <hi>ROD,</hi> &amp;c.</head>
+            <p>THAT which Induc'd me to Contrive this Neceſſary <hi>Rod</hi> for the Uſe of
+<pb n="2" facs="tcp:153712:3"/>
+               <hi>Victuallers,</hi> was the Talk of the <hi>Brewers</hi> Raiſing their <hi>Drink,</hi> and ſome of them pretending to Cut their Meaſure, by rea<g ref="char:EOLhyphen"/>ſon of the Duty laid upon <hi>Malt:</hi> As to the Raiſing their <hi>Drink,</hi> it is no Crime, tho' very Un<g ref="char:EOLhyphen"/>reaſonable; for when <hi>Malt</hi> was 28 <hi>Shillings</hi> a Quarter, the <hi>Victualler</hi> had his Drink at the ſame Rate as now; and if <hi>Malt</hi> was 12 <hi>Shillings</hi> a Quarter, I believe Drink would be nei<g ref="char:EOLhyphen"/>ther Cheaper nor Stronger. But, as to Short Meaſure, the <hi>Statute</hi> to the Contrary will Protect the <hi>Victualler</hi> (if Diſ<g ref="char:EOLhyphen"/>cover'd)
+<pb n="3" facs="tcp:153712:3"/>from any ſuch Loſs. So that I have contriv'd a <hi>Rod,</hi> whereby any Man, let him have but the Sence of a Boy of 7 years old, may Diſcover, whether any Barrel is accor<g ref="char:EOLhyphen"/>ding to the <hi>Statute</hi> or not, and how much it wants of Mea<g ref="char:EOLhyphen"/>ſure. Likewiſe how much Drink is in the Barrel, when it is not full, as in Caſe of 3 Fir<g ref="char:EOLhyphen"/>kins of <hi>Ale</hi> in a Barrel.</p>
+            <p>
+               <hi>Note,</hi> There is a <hi>Statute</hi> which obliges the <hi>Brewer</hi> to Tun <hi>Ale</hi> into <hi>Beer</hi> Barrels, and every <hi>Beer</hi> Barrel to contain
+<pb n="4" facs="tcp:153712:4"/>36 Gallons. Now there is but 32 Gallons to a Barrel of <hi>Ale;</hi> So you are to have 24 Gallons of <hi>Ale</hi> to 3 Firkins, Tun'd in<g ref="char:EOLhyphen"/>to a <hi>Beer</hi> Barrel.</p>
+         </div>
+         <div type="part">
+            <head>The <hi>Dimenſions</hi> of a <hi>Beer Barrel.</hi>
+            </head>
+            <p>LAy the <hi>Rod</hi> over the Broad<g ref="char:EOLhyphen"/>eſt part of the Head, put<g ref="char:EOLhyphen"/>ting the end of the <hi>Rod</hi> to the in-ſide of the Staves, and if the
+<pb n="5" facs="tcp:153712:4"/>oppoſite in ſide of the Staves be Juſt at the <hi>Notch</hi> Marked <hi>H.</hi> on the <hi>Rod,</hi> the Head is Right.</p>
+            <p>Then put the <hi>Rod</hi> ſtraight down at the Bung, and if the In-ſide of the Bung come exact<g ref="char:EOLhyphen"/>ly to the <hi>Notch</hi> at 36 the Bung is right: then lay the <hi>Rod</hi> along the out-ſide of the Staves, and if the Staves be as long as from the end of the Rod to the <hi>Notch</hi> at <hi>L.</hi> the Barrel holds 36 Gallons.</p>
+         </div>
+         <div type="part">
+            <pb n="6" facs="tcp:153712:5"/>
+            <head>Another way to know if a <hi>Barrel</hi> be True, and how much it holds and wants of Drink.</head>
+            <p>PUt the <hi>Rod</hi> in at the Bong ſlaint-ways, till it touch the under-part of one of the Heads, and if the In-ſide of the Right-hand-part of the Mid<g ref="char:EOLhyphen"/>dle of the Bong touch the <hi>Notch</hi> at <hi>D.</hi> the Barrel holds
+<pb n="7" facs="tcp:153712:5"/>36 Gallons; and if it touch at any of the other <hi>Notches</hi> below <hi>D.</hi> for every <hi>Notch</hi> it wants a Gallon.</p>
+         </div>
+         <div type="part">
+            <head>To know how much Drink is in the Barrel, either of <hi>Beer</hi> or <hi>Ale.</hi>
+            </head>
+            <p>SUppoſe you are to Gauge 3 Firkins of <hi>Ale</hi> in a <hi>Beer</hi> Barrel, you are to put the <hi>Reed</hi>
+               <pb n="8" facs="tcp:153712:6"/>(which you have with your <hi>Rod</hi>) into the Barrel, as far as you can, then put in the <hi>Rod</hi> and the Small Cork (which hinder the Yeaſt to enter the In-ſide of the <hi>Rod</hi>) will come out: when you have ſo done, put your <hi>Rod</hi> down into the <hi>Reed,</hi> until the <hi>Rod</hi> touch the bottom of the Barrel; then pull out the <hi>Rod,</hi> and if the Liquor wet the <hi>Notch</hi> at 24 there is 3 Firkins of <hi>Ale,</hi> or 24 Gallons; and if the Liquor wet the <hi>Notch</hi> be<g ref="char:EOLhyphen"/>low the <hi>Notch</hi> at 24 you have but 23 Gallons; and for every <hi>Notch</hi> below the <hi>Notch</hi> at 24 you want a gallon of drink.</p>
+            <pb n="9" facs="tcp:153712:6"/>
+            <p>Likewiſe for <hi>Beer,</hi> put the <hi>Rod</hi> and <hi>Reed</hi> into the Barrel, the ſame way as before, and if the Liquor wet the <hi>Notch</hi> on the <hi>Rod</hi> at 36 you have 36 Gallons, but if it wet any of the <hi>Notches</hi> below that at 36, for every <hi>Notch</hi> you want a Gallon of <hi>Beer.</hi>
+            </p>
+         </div>
+         <div type="publishers_note">
+            <head>Advertiſement.</head>
+            <p>ANy one that hath occaſion to have their <hi>Beer</hi> Gau<g ref="char:EOLhyphen"/>ged in their Cellar, in caſe of Whole-ſale, or the like, may hear of the <hi>Author</hi> of this <hi>Rod,</hi>
+               <pb n="10" facs="tcp:153712:7"/>at Mr. <hi>Newman</hi>'s, Bookſeller, at the <hi>Graſhopper</hi> in the <hi>Poultry;</hi> he will ingage to diſcover what Quantity of either <hi>Beer</hi> or <hi>Wine</hi> is in any ſort of Cask, to a Pint.</p>
+         </div>
+         <div type="publishers_note">
+            <head>Advertiſement.</head>
+            <p>THere is a Book, Entituled, <hi>Every Man his own Gau<g ref="char:EOLhyphen"/>ger:</hi> Wherein, not only the Ar<g ref="char:EOLhyphen"/>tiſt is ſhown a more Ready and Exact Method of <hi>Gauging</hi> than any hitherto Extant. But the moſt Ignorant, who can but read <hi>Engliſh,</hi> and tell Twenty in Figures, is Taught to find
+<pb n="11" facs="tcp:153712:7"/>the Content of any ſort of Cask or Veſſel, either full, or in part full; and to know if they be right ſiz'd. Alſo, what a Pipe, Hogſhead, <hi>&amp;c.</hi> amounts to at the common Rate and Meaſure they Buy or Sell at. With ſe<g ref="char:EOLhyphen"/>veral uſeful Tables to know the Content of any Veſſel by. Like<g ref="char:EOLhyphen"/>wiſe a Table ſhewing the Price of any Commodity, from one Pound to an Hundred Weight, and the contrary. To which is added, <hi>The True Art of Brew<g ref="char:EOLhyphen"/>ing</hi> Beer, Ale, Mum; of Fining, Preſerving and Botling Brew'd Liquors, of making the moſt
+<pb n="12" facs="tcp:153712:8"/>common Phyſical Ales now in uſe, of making ſeveral Fine <hi>En<g ref="char:EOLhyphen"/>gliſh Wines. The Vintner</hi>'s <hi>Art</hi> of Fining, Curing, Preſerving and Rectifying all ſorts of Wines, of making Artificial Wines, Di<g ref="char:EOLhyphen"/>ſtilling of Brandy and Spirits from Malt, Malaſſes, <hi>&amp;c.</hi> To<g ref="char:EOLhyphen"/>gether, <hi>With the Compleat Cof<g ref="char:EOLhyphen"/>fee-Man,</hi> Teaching how to make Coffee, Tea, Chocalate, Content, and the Richeſt, Fineſt Cordials, <hi>&amp;c.</hi> Of great Uſe for common Brewers, Victuallers, Vintners, Wine Coopers, Diſtil<g ref="char:EOLhyphen"/>lers, Strongwatermen, Coffee<g ref="char:EOLhyphen"/>men, and all other Traders. <hi>Price</hi> 1 <abbr>
+                  <hi>s.</hi>
+               </abbr> Bound.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="part">
+            <pb facs="tcp:153712:8"/>
+            <p>THE <hi>VICTUALLERS</hi> FRIEND.</p>
+            <pb facs="tcp:153712:9"/>
+         </div>
+      </back>
+   </text>
+</TEI>
